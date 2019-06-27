@@ -1,0 +1,12 @@
+name: DataScienceCapstone1
+title: DataScienceCapstone1
+username:
+account: lmurillo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1001137
+bundleId: 2181612
+url: https://lmurillo.shinyapps.io/DataScienceCapstone1/
+when: 1561607807.89494
+asMultiple: FALSE
+asStatic: FALSE
